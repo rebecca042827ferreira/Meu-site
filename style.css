@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter, sans-serif';
+}
+.cabecalho {
+    background-color: #7C71FF;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    height: 100px;
+
+}
+li{
+    display: inline;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 20px;
+} 
+a {
+    text-decoration: none;
+}
+.info-usuario {
+    color: aquamarine;
+    margin-left: 30px;
+}
+.nome.FontC {
+text-transform: uppercase;
+}
+.imagem {
+display: flex; 
+justify-content:space-around ;
+background-color: #7C71FF;
+border-radius: 0%;
+
+}
+.ml{
+    background-color: rgb(185, 120, 247);
+    margin-bottom: auto;
+    border: #7C71FF;
+}
+.i{
+    color: aquamarine;
+text-align: center;
+font-family: Abril Fatface;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.j{
+    color: aquamarine;
+text-align: center;
+font-family: Abril Fatface;
+font-size: 40px;
+font-style: normal;
+font-weight: 350;
+line-height: normal;
+}
+.clientes{
+    background-color: aqua;
+    width: fit-content;
+}
+.cl{
+    color:aquamarine;
+
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+*.clientes{
+    width: 1440px;
+height: 616px;
+flex-shrink: 0;
+}
+article{
+    background-color: #7C71FF;
+    display:table-cell;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px; 
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 100px;
+    line-height: normal;  
+    width: 500px;
+    height: 200px;
+    flex-shrink: 0;
+    margin-inline-start: auto;
+    position: relative;
+    top: 5px;
+ 
+}
+.o{
+ position: relative;
+ margin-top: auto;
+
+}
+.y{
+    position: relative;
+    margin-top: auto;
+}
+.ped{
+    flex-shrink: 0;
+    color:aquamarine;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: center;
+}
+.p{
+    background-color: #7C71FF;
+    display:table;
+    flex-shrink: 0;
+    margin-inline-start: center;
+    position: relative;
+    top: 1cx;
+    width: 1300px;
+    height: 600px;
+    flex-shrink: 0;
+}
+
+.n{
+    background-color: aquamarine;
+   
+}
+.no{
+    background-color: #7d71ffb4;
+}
+.nom{
+    background-color: #7d71ffa6;
+}
+.me{
+    background-color: aqua;
+}
+.fim{
+    background-color: #7C71FF;
+}
